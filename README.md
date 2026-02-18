@@ -44,7 +44,7 @@ Generates all conjugations of a Spanish verb across different tenses, moods, and
 - Input: `hablar`
 - Output: All conjugated forms across all tenses and persons
 
-**Note:** Some verbs have dual forms (e.g., follar, asolar, desolar, engrosar), in which case only one form is generated. Defective verbs are generated as if all personal forms existed.
+**Note:** Some verbs have dual forms (e.g., asolar, desolar, engrosar), in which case only one form is generated. Defective verbs are generated as if all personal forms existed.
 
 ## Technology Stack
 
@@ -195,7 +195,6 @@ This project is for demonstration purposes only. No copyright.
 **Jorge Amado Soria Ramirez**
 - Email: jorgeamadosoria@gmail.com
 - GitHub: [@jorgeamadosoria](https://github.com/jorgeamadosoria)
-- Portfolio: [https://portfolio-jasr.herokuapp.com/](https://portfolio-jasr.herokuapp.com/)
 - CV: [https://live-cv-jasr.herokuapp.com/](https://live-cv-jasr.herokuapp.com/)
 
 ## Acknowledgments
