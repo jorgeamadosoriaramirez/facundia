@@ -188,7 +188,7 @@ The Facundia library includes another library for syllable separation using a De
 
 ## License
 
-This project is for demonstration purposes only. No copyright, 2020.
+This project is for demonstration purposes only. No copyright.
 
 ## Author
 
